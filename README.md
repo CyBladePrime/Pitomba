@@ -1,7 +1,3 @@
-# Pitomba
-
-Implementação de IA para regenciamento, monitoração, manutenção e retorno de um Honda Civic 2010
-
 # Projeto Pitomba – Gestão Inteligente de Upgrades e Manutenção
 > Honda Civic 2010 — Código do Projeto: PITOMBA-AI
 
